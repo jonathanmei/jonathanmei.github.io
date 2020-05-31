@@ -8,9 +8,8 @@ img: /assets/img/metal.jpg
 The cover is a corrugated treble clef, cut from a single sheet of 36 gauge aluminum 
 
 <div class="img_row">
-    <video class="col three left" alt="Dimpled disco ball in its natural habitat" title="Dimpled disco ball in its natural habitat" autoplay muted loop>
+    <video class="col three left" alt="Dimpled disco ball in its natural habitat" title="Dimpled disco ball in its natural habitat" autoplay muted loop controls>
       <source src="{{ site.baseurl }}/assets/img/metal/disco.mp4" type="video/mp4">
-      <source src="{{ site.baseurl }}/assets/img/metal/disco.webm" type="video/webm">
       Sorry, your browser doesn't support video!
     </video>
 </div>
@@ -20,9 +19,8 @@ The cover is a corrugated treble clef, cut from a single sheet of 36 gauge alumi
 
 
 <div class="img_row">
-    <video class="col three left" alt="Barrel roll?" title="Barrel roll?" autoplay muted loop>
+    <video class="col three left" alt="Barrel roll?" title="Barrel roll?" autoplay muted loop controls>
       <source src="{{ site.baseurl }}/assets/img/metal/fox.mp4" type="video/mp4">
-      <source src="{{ site.baseurl }}/assets/img/metal/fox.webm" type="video/webm">
       Sorry, your browser doesn't support  video!
     </video>
 </div>
@@ -41,9 +39,8 @@ The cover is a corrugated treble clef, cut from a single sheet of 36 gauge alumi
 
 
 <div class="img_row">
-    <video class="col three left" alt="Bonsai!" title="Bonsai!" autoplay muted loop>
+    <video class="col three left" alt="Bonsai!" title="Bonsai!" autoplay muted loop controls>
       <source src="{{ site.baseurl }}/assets/img/metal/bonsai.mp4" type="video/mp4">
-      <source src="{{ site.baseurl }}/assets/img/metal/bonsai.webm" type="video/webm">
       Sorry, your browser doesn't suppor video!
     </video>
 </div>
