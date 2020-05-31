@@ -4,12 +4,12 @@
     height: 250px;
     padding: 10px;
     vertical-align: middle;
-    width: 33.33%;
+    width: auto;
 
     .thumbnail {
-        overflow: hidden;
+        //overflow: hidden;
         height: 200px;
-        width: auto;
+        width: 100%;
 
         img {
             height: 200px;
