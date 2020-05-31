@@ -9,8 +9,9 @@ The cover image was taken halfway through a butterfly kick at Ocean Beach in San
 
 <div class="img_row">
     <video class="col three left" alt="My favorite trick" title="My favorite trick" autoplay loop muted>
+      <source src="{{ site.baseurl }}/assets/img/trick/aerial.mp4" type="video/mp4">
       <source src="{{ site.baseurl }}/assets/img/trick/aerial.webm" type="video/webm">
-      Sorry, your browser doesn't suppoer WebM video!
+      Sorry, your browser doesn't support video!
     </video>
 </div>
 <div class="col three caption">
@@ -30,8 +31,9 @@ The cover image was taken halfway through a butterfly kick at Ocean Beach in San
 
 <div class="img_row">
     <video class="col three left" alt="Superfly" title="Superfly" controls muted>
+      <source src="{{ site.baseurl }}/assets/img/trick/paraglide.mp4" type="video/mp4">
       <source src="{{ site.baseurl }}/assets/img/trick/paraglide.webm" type="video/webm">
-      Sorry, your browser doesn't suppoer WebM video!
+      Sorry, your browser doesn't support video!
     </video>
 </div>
 <div class="col three caption">
@@ -49,8 +51,9 @@ The cover image was taken halfway through a butterfly kick at Ocean Beach in San
 
 <div class="img_ctr">
     <video class="col two ctr" alt="My arms are sluts" title="My arms are sluts" autoplay loop muted>
+      <source src="{{ site.baseurl }}/assets/img/trick/dbl_leg.mp4" type="video/mp4">
       <source src="{{ site.baseurl }}/assets/img/trick/dbl_leg.webm" type="video/webm">
-      Sorry, your browser doesn't suppoer WebM video!
+      Sorry, your browser doesn't support video!
     </video>
 </div>
 <div class="col three caption">
@@ -60,8 +63,9 @@ The cover image was taken halfway through a butterfly kick at Ocean Beach in San
 
 <div class="img_row">
     <video class="col three left" alt="Fail" title="Fail" autoplay loop muted>
+      <source src="{{ site.baseurl }}/assets/img/trick/butterfail.mp4" type="video/mp4">
       <source src="{{ site.baseurl }}/assets/img/trick/butterfail.webm" type="video/webm">
-      Sorry, your browser doesn't suppoer WebM video!
+      Sorry, your browser doesn't support video!
     </video>
 </div>
 <div class="col three caption">

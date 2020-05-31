@@ -48,8 +48,9 @@ Cover image is an &quot;impossible&quot; arrow through a block, made during a Ja
 
 <div class="img_ctr">
     <video class="col one ctr" alt="Losing brain cells" title="Losing brain cells" autoplay loop muted>
+      <source src="{{ site.baseurl }}/assets/img/wood/headbutt.mp4" type="video/mp4">
       <source src="{{ site.baseurl }}/assets/img/wood/headbutt.webm" type="video/webm">
-      Sorry, your browser doesn't suppoer WebM video!
+      Sorry, your browser doesn't support video!
     </video>
 </div>
 <div class="col three caption">

@@ -9,8 +9,9 @@ The cover is a corrugated treble clef, cut from a single sheet of 36 gauge alumi
 
 <div class="img_row">
     <video class="col three left" alt="Dimpled disco ball in its natural habitat" title="Dimpled disco ball in its natural habitat" autoplay muted loop>
+      <source src="{{ site.baseurl }}/assets/img/metal/disco.mp4" type="video/mp4">
       <source src="{{ site.baseurl }}/assets/img/metal/disco.webm" type="video/webm">
-      Sorry, your browser doesn't support WebM video!
+      Sorry, your browser doesn't support video!
     </video>
 </div>
 <div class="col three caption">
@@ -20,8 +21,9 @@ The cover is a corrugated treble clef, cut from a single sheet of 36 gauge alumi
 
 <div class="img_row">
     <video class="col three left" alt="Barrel roll?" title="Barrel roll?" autoplay muted loop>
+      <source src="{{ site.baseurl }}/assets/img/metal/fox.mp4" type="video/mp4">
       <source src="{{ site.baseurl }}/assets/img/metal/fox.webm" type="video/webm">
-      Sorry, your browser doesn't support WebM video!
+      Sorry, your browser doesn't support  video!
     </video>
 </div>
 <div class="col three caption">
@@ -40,8 +42,9 @@ The cover is a corrugated treble clef, cut from a single sheet of 36 gauge alumi
 
 <div class="img_row">
     <video class="col three left" alt="Bonsai!" title="Bonsai!" autoplay muted loop>
+      <source src="{{ site.baseurl }}/assets/img/metal/bonsai.mp4" type="video/mp4">
       <source src="{{ site.baseurl }}/assets/img/metal/bonsai.webm" type="video/webm">
-      Sorry, your browser doesn't support WebM video!
+      Sorry, your browser doesn't suppor video!
     </video>
 </div>
 <div class="col three caption">
