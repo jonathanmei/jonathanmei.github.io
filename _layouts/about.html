@@ -5,10 +5,10 @@ layout: page
 {% if page.profile %}
   <div class="profile col one_min {{ page.profile.align }}">
     {% if page.profile.image %}
-      <img class="one" src="{{ page.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+      <img id="profile_pic" class="one" src="{{ page.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
     {% endif %}
     {% if page.profile.address %}
-      <div class="address">
+      <div id="address" class="address">
         {{ page.profile.address }}
       </div>
     {% endif %}
