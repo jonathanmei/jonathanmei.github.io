@@ -5,7 +5,7 @@
     {% if page.layout != "about" %}
     <span class="site-title">
         {% assign name = site.name | split: ' ' %}
-        <strong>{{ name | first }}</strong> {{ name | last }}
+	{{ name | first }} <b>{{ name | last }}</b>
     </span>
     {% endif %}
 
@@ -25,8 +25,9 @@
         <!-- About -->
         <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">about</a>
 
-        <!-- CV link -->
+        <!-- CV link 
         <a class="page-link" href="{{ '/assets/pdf/JMei_Resume_2019_06_17.pdf' | prepend: site.baseurl | prepend: site.url }}">CV</a>
+	-->
 
         <!-- Pages -->
         {% for page in site.pages reversed %}

@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Jonathan Mei
-email: abc@jonathanmei.xyz
+email: jonathan@mei.to
 description: > # this means to ignore newlines until "footer_text:"
   My bubble on the net
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 url: https://www.jonathanmei.com # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: 2020-May-25 # leave blank if you don't want to display last updated
+last_updated: 2022-Oct-30 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Open Graph
@@ -26,7 +26,7 @@ github_username: # your GitHub user name
 twitter_username: # your Twitter handle
 youtube_username: changethewhirled
 facebook_username: jonathan.mei.587
-linkedin_username: jonathan-mei-85192917 # your LinkedIn user name
+linkedin_username: jonathanmei # your LinkedIn user name
 scholar_userid: bm4orewAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -101,7 +101,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Mei
 
   style: apa
   locale: en
