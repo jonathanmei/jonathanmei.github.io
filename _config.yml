@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Jonathan Mei
-email: jonathan@mei.to
+email: j@mei.to
 description: > # this means to ignore newlines until "footer_text:"
   My bubble on the net
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 url: https://www.jonathanmei.com # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: 2022-Oct-30 # leave blank if you don't want to display last updated
+last_updated: 2023-Apr-03 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Open Graph

@@ -5,7 +5,7 @@ title: Jonathan <strong>Mei</strong>
 description: >
   Sr. Research Engineer @ <a href="http://luminous.com">Luminous Computing</a> &ensp; | &ensp;
   Santa Clara, CA &ensp; | &ensp;
-  first [dot] last [at] lmns [dot] com
+  first initial [at] last [dot] to
 
 profile:
   align: right
