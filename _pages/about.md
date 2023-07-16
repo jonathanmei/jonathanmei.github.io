@@ -3,8 +3,7 @@ layout: about
 permalink: /
 title: Jonathan <strong>Mei</strong>
 description: >
-  Sr. Research Engineer @ <a href="http://luminous.com">Luminous Computing</a> &ensp; | &ensp;
-  Santa Clara, CA &ensp; | &ensp;
+  Staff Research Scientist in Quantum AI & ML @ <a href="https://ionq.com">IonQ</a> &ensp; | &ensp;
   first initial [at] last [dot] to
 
 profile:
@@ -64,9 +63,10 @@ Hi there! Welcome to my little bubble on the net. Here's a bit about me. [<a hre
 <div id="fader" style="position:relative">
   <div id="age25">
     <p>
-      I develop large machine learning models and algorithms, studying their scaling behavior, especially for implementation on a novel supercomputer architecture that uses silicon photonics for communication to avoid bottlenecks found in current hardware.
+      I develop quantum computing algorithms for AI and machine learning.
       In my previous lives, among <a href="https://scholar.google.com/citations?user=bm4orewAAAAJ">other things</a>, I've worked on:
       <ul>
+       <li> researching large machine learning models and their scaling behavior to inform <a href="http://luminous.com">supercomputing hardware</a> architecture design</li>
        <li> making photorealistic holograms from light fields using a combination of geometric computer vision, deep learning, and classical image processing</li>
        <li> <a href="https://ieeexplore.ieee.org/abstract/document/8320856">interpretable</a> machine learning via sparse <a href="https://ieeexplore.ieee.org/abstract/document/7763882">graph signal processing</a></li>
        <li> virtual reality controllers for standalone headsets using low-cost, low-power sensors</li>
@@ -83,9 +83,10 @@ Hi there! Welcome to my little bubble on the net. Here's a bit about me. [<a hre
 
   <div id="age5" style="position:absolute;display:none">
     <p>
-      I make and study artificial intelligence on a new type of supercomputer that uses lasers to communicate way faster than electricity.
+      I program computers that use fancy physics to make robots.
       I also used to work on <a href="https://scholar.google.com/citations?user=bm4orewAAAAJ">other things</a> like:
       <ul>
+       <li> studying artificial intelligence on a new type of <a href="http://luminous.com">supercomputer</a> that uses lasers to communicate way faster than electricity</li>
        <li> creating beautiful 3D videos and pictures by describing how cameras capture light, a sprinkle of black magic, and instagram filters</li>
        <li> <a href="https://ieeexplore.ieee.org/abstract/document/7763882">crazy connected computer models</a> that can be <a href="https://ieeexplore.ieee.org/abstract/document/8320856">easily explained</a> to people</li>
        <li> 3D video game controllers for virtual reality that were cheap but good</li>
